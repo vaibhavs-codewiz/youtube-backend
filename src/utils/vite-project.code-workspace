@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../../websprint/vite-project"
+	},
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../freshaUser"
+	},
+	{
+		"path": "../../../level1"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "level1"
+  }
+}
